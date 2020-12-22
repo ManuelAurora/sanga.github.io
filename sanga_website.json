@@ -1,0 +1,56 @@
+{
+	"ru": {
+		"headerSection": {
+			"title": "Разрабатываем игры и приложения",
+			"backgroundImageUrl": "",
+			"dunsIconUrl": ""
+		},
+		"policySection": {
+			"title": "Слышать наших пользователей - политика компании",
+			"promo": {
+				"title": "От идеи до Production, мы думаем о том, как сделать вашу жизнь комфортной",
+				"text": "Наши продукты должны удовлетворять потребностям наших клиентов ежедневно, помогая им решать  социальные задачи, учиться чему-либо или просто расслабиться, запустив одну из наших игр."
+			},
+			"legalButton": {
+				"title": "Юридическая информация"
+			},
+			"iconUrl": "",
+			"pitches": [{
+					"header": "8+",
+					"text": "ЛЕТ ЗАНИМАЕМСЯ РАЗРАБОТКОЙ"
+				},
+				{
+					"header": "12+",
+					"text": "Успешно реализованных проектов"
+				}
+			]
+		},
+		"projectsSection": {
+			"title": "Проекты",
+			"sinceDate": "2016-2020",
+			"apps": [{
+				"title": "My Amanat",
+				"backgroundImageUrl": "",
+				"youtubeButton": {
+					"title": "Коротка видеопрезентация",
+					"iconImageUrl": "",
+					"youtubeUrl": ""
+				},
+				"appstoreButton": {
+					"title": "В App Store",
+					"appstoreUrl": "https://appstoreconnect.apple.com/apps/1498375298/appstore/ios/version/deliverable"
+				}
+			}],
+			"games": []
+		},
+		"footerSection": {
+			"title": "Есть вопрос?",
+			"text": "Оставьте вашу почту и мы свяжемся с вами",
+			"policy": {
+				"text": "Нажимая на кнопку «ОК» вы даете согласние на обработку ваших персональных данных согласно политике конфиденциальности",
+				"policyUrl": "http://myamanat.ru"
+			}
+		}
+	},
+	"en": {}
+}
